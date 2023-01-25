@@ -1,0 +1,11 @@
+{
+  "name": "wesleysquirejs_qap2",
+  "version": "1.0.0",
+  "description": "Javascript QAP2",
+  "main": "index.js",
+  "author": "Wesley Squire",
+  "license": "ISC",
+  "dependencies": {
+    "mode": "^0.3.2"
+  }
+}
